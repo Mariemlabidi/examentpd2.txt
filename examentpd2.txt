@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 la branche master est la barnche  des fonctions 
+=======
+une partie modifiée de code source est sur la branche master
+>>>>>>> branche_examen_d2
